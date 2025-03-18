@@ -39,14 +39,14 @@ h3 {
 }
 progress {
     height: 6px;
-    width: 50%;
+    width: 0%;
 }
 .cursor {
     width: 20px;
     height: 20px;
     background-color: darkcyan;
     border-radius: 5px;
-    margin-left: -2px;
+    margin-left: -10px;
     cursor: pointer;
 }
 .tempo {
